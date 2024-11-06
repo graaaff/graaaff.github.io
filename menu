@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Практична робота №5</h1>
+    <h2>Підготував студент групи</h2>
+    <h3>ІС-23-01 Турчак Богдан</h3>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Меню</a></li>
+        <li><a href="site/info.html">Інформація</a></li>
+        <li><a href="site/gallery.html">Галерея</a></li>
+        <li><a href="site/form.html">Контакти</a></li>
+    </ul>
+</nav>
+
+<footer>
+    <p>Copyrignt 2024</p>
+</footer>
+    <main>
+        <section class="gallery">
+            <img src="https://i.pinimg.com/564x/fb/35/ef/fb35ef9a61f689d386176ad1ceeb40a2.jpg" alt="Фото 1" class="small-image">
+      </section>
+</main>
+</body>
+</html>
