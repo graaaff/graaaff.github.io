@@ -11,13 +11,11 @@ body {
     color: #8fc423;
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #27f2db;
-    padding: 20px 40px;
-    border-radius: 12px;
+.conrainer {
+  display: flex;
+  flex-direction: column;
+  border: 1px dashed white;
+  background-color: #ff953;
 }
 
 
